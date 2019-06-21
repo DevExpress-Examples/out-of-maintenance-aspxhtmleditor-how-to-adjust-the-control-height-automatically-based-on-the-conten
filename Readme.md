@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to adjust the control height automatically based on the content height
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t233702/)**
+<!-- run online end -->
 
 <br/>
 
